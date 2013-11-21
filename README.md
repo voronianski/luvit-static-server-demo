@@ -20,7 +20,7 @@ $: cd luvit-static-server-demo
 $: luvit app.lua
 ```
 
-Modules that were used in this example are stored in [luvit github organization](https://github.com/luvit) and created by [Tim Caswell](https://github.com/creationix)
+Modules that were used in this example are stored in [luvit github organization](https://github.com/luvit) and created by [Tim Caswell](https://github.com/creationix).
 
 ### Packages
 
