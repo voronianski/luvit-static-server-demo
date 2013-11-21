@@ -24,7 +24,7 @@ Modules that were used in this example are stored in [luvit github organization]
 
 ### Packages
 
-Unfortunately luvit misses package manager to handle dependencies in a simple manner currently. Join the discussion [here](https://groups.google.com/forum/#!topic/luvit/t-jOagzoog0)
+Unfortunately luvit misses package manager to handle dependencies in a simple manner currently. Join the discussion [here](https://groups.google.com/forum/#!topic/luvit/t-jOagzoog0).
 
 ---
 
