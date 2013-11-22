@@ -26,9 +26,11 @@ $: cd luvit-static-server-demo
 $: luvit app.lua
 ```
 
-Modules that were used in this example are stored in [luvit github organization](https://github.com/luvit) and created by [Tim Caswell](https://github.com/creationix).
+And then check ``http://localhost:9091`` in your browser.
 
 ### Packages
+
+Modules that were used in this example are stored in [luvit github organization](https://github.com/luvit) and created by [Tim Caswell](https://github.com/creationix).
 
 Unfortunately luvit misses package manager to handle dependencies in a simple manner currently. Join the discussion [here](https://groups.google.com/forum/#!topic/luvit/t-jOagzoog0).
 
