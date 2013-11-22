@@ -9,6 +9,12 @@ You need to have [Lua ``>= 5.1``](http://www.lua.org/download.html) installed on
 If you are on Mac OS X and have homebrew, just type:
 
 ```bash
+$: brew install lua
+```
+
+and
+
+```bash
 $: brew install luvit
 ```
 
