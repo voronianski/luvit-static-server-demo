@@ -28,7 +28,7 @@ end
 
 -- serve static files
 app = static(app, {
-	root = __dirname .. '/public',
+	root = root,
 	index = 'index.html',
 	autoIndex = true
 })
